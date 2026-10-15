@@ -61,3 +61,11 @@ If the map is empty or status is red:
 
 ### Vercel Deployment Note
 For Vercel, we use `vercel.json` to route API calls. Locally, Vite proxies these calls or you can connect directly to localhost.
+
+## Contributors
+
+This project is maintained collaboratively.
+
+- Documentation
+- GitHub workflow practice
+- Project improvements
